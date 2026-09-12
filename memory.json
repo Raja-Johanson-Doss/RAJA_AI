@@ -1,0 +1,26 @@
+[
+    {
+        "role": "user",
+        "content": "My name is Raja."
+    },
+    {
+        "role": "assistant",
+        "content": "Nice to meet you, Raja! How can I help you today?"
+    },
+    {
+        "role": "user",
+        "content": "I am learning Python and CSE."
+    },
+    {
+        "role": "assistant",
+        "content": "That’s great, Raja! Python is an excellent starting point for learning Computer Science and Engineering (CSE).\n\nI can help you with:\n\n- Python basics: variables, data types, loops, functions\n- Object-oriented programming\n- Data structures and algorithms\n- Problem-solving and coding practice\n- C, C++, Java, and SQL\n- Projects and debugging\n- Exam preparation\n\nA good learning path is:\n\n1. Python syntax and fundamentals  \n2. Functions and modules  \n3. Lists, tuples, sets, and dictionaries  \n4. Object-oriented programming  \n5. Recursion and algorithms  \n6. Data structures  \n7. Problem-solving and projects  \n\nYou can ask me questions like:\n\n- “Explain Python loops.”\n- “Write a program to check prime numbers.”\n- “Teach me arrays and linked lists.”\n- “Help me debug this code.”"
+    },
+    {
+        "role": "user",
+        "content": "What is my name?"
+    },
+    {
+        "role": "assistant",
+        "content": "Your name is **Raja**."
+    }
+]
